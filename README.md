@@ -15,8 +15,7 @@ Para correr este proyecto en tu computadora, vas a necesitar tener instalado Nod
    npx tsx src/main.ts
 
 Esto va a imprimir en la consola una simulación de la factura mensual:
-
-
+<img width="1917" height="581" alt="imagen" src="https://github.com/user-attachments/assets/2f822afa-d7ae-4a08-9272-cb522989e6b2" />
 
 ## Estructura del proyecto
 
